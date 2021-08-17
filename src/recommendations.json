@@ -1,0 +1,50 @@
+[
+    {
+        "number": "1",
+        "type": "podcast",
+        "title": "Git Cute",
+        "description" : "hosted by Jocelyn Harper, talking about general career advice for software engineers and random tech topics she finds interesting."
+    },
+    {
+        "number": "2",
+        "type": "podcast",
+        "title": "Ladybug Podcast",
+        "description" : "hosted by Emma Bostian, Sidney Buckner, Ali Spittel, and Kelly Vaughn, talking about all things concerning software development and being a woman in tech."
+    },
+    {
+        "number": "3",
+        "type": "podcast",
+        "title": "Tech Sisters Stories",
+        "description" : "hosted by Grace of Tech Sisters, a community supporting Muslim Women in Tech through storytelling, mentorship, and collaboration, focused on highlighting Muslim women who are rising stars within tech industries."
+    },
+    {
+        "number": "4",
+        "type": "podcast",
+        "title": "A Podcast by Pawlean",
+        "description" : "hosted by community builder, advocate, and engineer Pauline Narvas, talking about tech, careers, health, relationships, and other topics which matter to her."
+    },
+    {
+        "number": "5",
+        "type": "podcast",
+        "title": "Rocket",
+        "description" : "hosted by Simone de Rochefort, Christina Warren, and Brianna Wu, talking about tech, comics, films, games, books, and anything geek culture."
+    },
+    {
+        "number": "6",
+        "type": "podcast",
+        "title": "NonBinary Code",
+        "description" : "hosted by Kayden, a tech podcast made by and for LGBTQIA+ people exploring the intersections between tech news, mental health, and queer experiences."
+    },
+    {
+        "number": "7",
+        "type": "podcast",
+        "title": "The Good Robot",
+        "description" : "hosted by Eleanor Drage and Kerry Mackereth, a podcast produced by the University of Cambridge Centre for Gender Studies which examines whether 'good' tech is possible and what impact feminism can have upon technology."
+    },
+    {
+        "number": "8",
+        "type": "podcast",
+        "title": "Tech Don't Sleep",
+        "description" : "hosted by Barbie Evans, Edward Jones, and Bill McCleskey, talking about technology and the Black entrepreneur experience."
+    }
+]
