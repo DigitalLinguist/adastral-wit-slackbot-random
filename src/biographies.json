@@ -1,0 +1,212 @@
+[
+    {
+        "number": "1",
+        "full_name": "Radia Perlman",
+        "pronouns": "she/her",
+        "dates": "b.1951",
+        "bio": "Radia Perlman is a Jewish American network engineer and programmer who invented spanning tree protocol (STP) and contributed extensively to the development and standardisation of many link-state protocols. She obtained a BSc, MSc, and PhD from Massachusetts Institute of Technology. She holds over 100 patents, has been inducted into both the Internet Hall of Fame and the National Inventors Hall of Fame, and was the recipient of the inaugural Anita Borg Institute Women of Vision Award for Innovation."
+    },
+    {
+        "number": "2",
+        "full_name": "Timnit Gebru",
+        "pronouns": "She/her",
+        "dates": "b.~1983",
+        "bio": "Timnit Gebru is an Ethiopian American researcher and computer scientist who works on algorithmic bias and data mining. She co-founded the research group Black in AI. She obtained a BSc, MSc, and PhD from Stanford and has led on ethical research teams at companies including Apple, Microsoft, and Google. In 2021 Fortune Magazine full_named her one of 50 global leaders."
+    },
+    {
+        "number": "3",
+        "full_name": "Ada Lovelace",
+        "pronouns": "she/her",
+        "dates": "b.1815 d.1852",
+        "bio": "Augusta Ada King (née Byron), Countess of Lovelace, was an English mathematician who wrote and published the first algorithm intended for use by early computers such as the Analytical Engine. Widely considered the first ever computer programmer, she was also very interested in the correlation of mathematics and music. The programming language Ada is full_named after her, and Ada Lovelace Day is celebrated annually on the second Tuesday of October."
+    },
+    {
+        "number": "4",
+        "full_name": "Mary Somerville",
+        "pronouns": "she/her",
+        "dates": "b.1780 d.1872",
+        "bio": "Mary Somerville was a Scottish polymath and author well-known for her scientific writing and experiments, and was also Ada Lovelace's maths tutor. She was the joint-first female honorary member of the Royal Astronomical Society, and four years before her death, she signed an early petition for women's right to vote. Somerville College, Oxford and the Somerville crater on Earth's moon are both full_named for her, and as of 2017 she has been on the polymer £10 note issued by the Royal Bank of Scotland."
+    },
+    {
+        "number": "5",
+        "full_name": "Maria Mitchell",
+        "pronouns": "she/her",
+        "dates": "b.1818 d.1889",
+        "bio": "Maria Mitchell was an American astronomer, professor, and activist who received a prize from the Danish monarchy in 1848 for discovering what came to be known as 'Miss Mitchell's Comet'. She was well-acquainted with other anti-slavery activists and members of the women's suffrage movement, including Sojourner Truth. She was the first woman to become a professor of astronomy at Vassar College and after learning she was underpaid compared to male professors, successfully petitioned Vassar for a salary increase for both herself and the only other woman on Vassar's faculty at the time, Dr Alida Avery."
+    },
+    {
+        "number": "6",
+        "full_name": "Caroline Herschel",
+        "pronouns": "she/her",
+        "dates": "b.1750 d.1848",
+        "bio": "Caroline Herschel was a German singer and astronomer who was the first woman to hold a government position, the first woman known to have received a salary as a scientist, and the first female recipient of the Gold Medal of the Royal Astronomical Society. She discovered 8 comets and the crater C. Herschel on Earth's moon is full_named for her. She was awarded the Prussian Gold Medal for Science on her 96th birthday."
+    },
+    {
+        "number": "7",
+        "full_name": "Flossie Wong-Staal / Wong Yee-Ching",
+        "pronouns": "she/her",
+        "dates": "b.1946 d. 2020",
+        "bio": "Flossie Wong-Staal, also known as Wong Yee-Ching, was a Chinese American molecular biologist and virologist best known for being the first scientist to clone HIV and determine the function of its genes, a major breakthrough in proving HIV is the cause of AIDS. She earned a BSc and PhD from the University of California, Los Angeles (UCLA), and led research into AIDS and gene therapy at the University of California, San Diego throughout the 1990s. She was also a leading figure in biopharmaceuticals, working at the National Cancer Institute, the American Institute of Medicine, and a company she co-founded, Immusol/iTherX, the latter of which she spent significant time researching improvements into therapeutic drugs for hepatitis-C."
+    },
+    {
+        "number": "8",
+        "full_name": "Hedy Lamarr",
+        "pronouns": "she/her",
+        "dates": "b.1914 d.2000",
+        "bio": "Hedwig Eva Maria Kiesler, better known by her stage full_name Hedy Lamarr, was an Austrian American actress, producer, and inventor who built numerous gadgets in her downtime between films. Her most notable invention came during World War II as the co-inventor and joint-patent holder for a radio guidance system using frequency-hopping spread spectrum technology, aspects of which would later be inspirational for and incorporated into Wi-Fi technologies and Bluetooth."
+    },
+    {
+        "number": "9",
+        "full_name": "Marie Maynard Daly",
+        "pronouns": "she/her",
+        "dates": "b.1921 d.2003",
+        "bio": "Marie Maynard Daly was an American biochemist and the first Black American woman to be awarded a PhD in Chemistry, which she earned from Columbia University (from whom she was also the first Black American to receive a PhD). She made many significant research breakthroughs in areas including: the chemistry of histones; protein synthesis; the relationships between cholesterol and hypertension; and creatine's uptake by muscle cells."
+    },
+    {
+        "number": "10",
+        "full_name": "Rosalind Franklin",
+        "pronouns": "she/her",
+        "dates": "b.1920 d.1958",
+        "bio": "Rosalind Franklin was an English chemist and X-ray crystallographer, who was most known during her lifetime for her works on coal, graphite, and viruses, but posthumously received recognition for her critical contributions to the understanding of the molecular structures of RNA and DNA."
+    },
+    {
+        "number": "11",
+        "full_name": "Grace Hopper",
+        "pronouns": "she/her",
+        "dates": "b.1906 d.1992",
+        "bio": "Grace Hopper was an American US Navy rear admiral and computer scientist who was a pioneering programmer, and the first person to devise the theory of machine-independent programming languages. She created the FLOW-MATIC language which was later extended to create COBOL, and made significant contributions to the implementation of standardisation for testing computer systems and components adopted by the organisation known today as the National Institute of Standards and Technology. Though she never used the word 'debugging', Grace Hopper's logs from working on a Mark II computer in the 1940s led to the popularisation of the term: a moth had been found in the computer's relay which impeded its operation, and the specimen was taped into the log book as the source of the problem. Today, the log can be viewed at the Smithsonian Institute."
+    },
+    {
+        "number": "12",
+        "full_name": "Christine Darden",
+        "pronouns": "she/her",
+        "dates": "b.1942",
+        "bio": "Christine Darden is an American data analyst, mathematician, and aeronautical engineer. She made significant contributions to NASA's research into sonic booms and supersonic flight, specialising in flap design and supersonic flow, and was the first Black woman to be promoted into the Senior Executive service at NASA's Langley Research Centre. She earned a BSc from Hampton University, an MSc from Virginia State College, and a PhD from George Washington University. She has received numerous prizes for her contributions to engineering, including a Candace Award, the Presidential Citizenship Award, and the Congressional Gold Medal."
+    },
+    {
+        "number": "13",
+        "full_name": "Katherine Goble Johnson",
+        "pronouns": "she/her",
+        "dates": "b.1918 d.2020",
+        "bio": "Katherine Goble Johnson was an American mathematician who was one of the first Black women to work as a NASA scientist. She specialised in calculations of orbital mechanics - including trajectories, launch windows, and emergency return paths - and her work was critical to early American crewed spaceflights. She co-authored 26 scientific papers, received multiple prizes and awards for her pioneering influence in space science and computing, and was one of the central subjects for the 2016 film, Hidden Figures."
+    },
+    {
+        "number": "14",
+        "full_name": "Mary Jackson",
+        "pronouns": "she/her",
+        "dates": "b.1921 d.2005",
+        "bio": "Mary Jackson was an American mathematician and aerospace engineer who was the first Black woman to be a NASA engineer. She specialised in theoretical aerodynamics and data analysis, being particularly interested in air flow, thrust, and drag forces as pertaining to planes. She earned bachelor's degrees in physical sciences and mathematics, authored or co-authored 12 technical papers for NASA, and later in career she managed both the Federal Women's Program and the Affirmative Action Program for NASA to encourage recruiting and promoting marginalised demographics into/within STEM careers and roles. She also severed for over 30 years as a Girl Scout leader and helped young black Americans create a miniature wind tunnel for testing planes. She was one of the central subjects for the 2016 film, Hidden Figures."
+    },
+    {
+        "number": "15",
+        "full_name": "Chien-Shiung Wu",
+        "pronouns": "she/her",
+        "dates": "b.1912 d.1997",
+        "bio": "Chien-Shiung Wu was a Chinese-American experimental physicist and particle physicist who made many significant contributions to physics in fields such as quantum entaglement, nuclear fission, parity violation, and beta decay, including the Wu Experiment and the Manhattan Project. Nickfull_named the 'First Lady of Physics' and the 'Queen of Nuclear Research', she won multiple awards including the Comstock Prize in Physics, the Bonner Prize, the National Medal of Science, and the Wolf Prize in Physics."
+    },
+    {
+        "number": "16",
+        "full_name": "Jane Goodall",
+        "pronouns": "she/her",
+        "dates": "b. 1934",
+        "bio": "Jane Goodall is an English primatologist and anthropologist, widely regarded as the foremost living expert on chimpanzees. She earned a BA and a PhD from the University of Cambridge, and in 1977, she established the Jane Goodall Institute, a wildlife & environment conservation organisation which supports community-centred conservation programs across the world, particularly in African countries."
+    },
+    {
+        "number": "17",
+        "full_name": "Raven Baxter",
+        "pronouns": "she/her",
+        "dates": "b.? (living)",
+        "bio": "Raven Baxter, better known as Dr Raven the Science Maven, is an American molecular biologist, educator, and science communicator. She founded the Black in Science Communication organisation, the science advocacy group STEMbassy, and the clothing line Smarty Pants, which donates a portion of sales to college scholarships for students from underrepresented communities. She earned a BSc and MSc from Buffalo State College and a PhD from the University of Buffalo. She is famous online for her science education parody raps, most notably of Megan Thee Stallion songs, recently releasing 'Antibodyody' which she wrote as a revision aid for one of her former students."
+    },
+    {
+        "number": "18",
+        "full_name": "Emily Calandrelli",
+        "pronouns": "she/her",
+        "dates": "b.~1988",
+        "bio": "Emily Calandrelli is an American engineer, science communicator, NASA scholar, and television host. She earned a BSc from West Virginia University and an MSc from Massachusetts Institute of Technology (MIT). She hosts Emily's Wonder Lab on Netflix."
+    },
+    {
+        "number": "19",
+        "full_name": "Hannah Fry",
+        "pronouns": "she/her",
+        "dates": "b.1984",
+        "bio": "Hannah Fry is a British mathematician, author, university lecturer, and presenter, whose primary interest lies in how mathematics applies to patterns of human behaviour. She earned a PhD in Fluid Dynamics from University College London, and has presented a television biography of Ada Lovelace, the 2019 Royal Institution Christmas Lectures, and a TED talk, 'The Mathematics of Love', which served as inspiration for her book of the same full_name. Her other books include 'The Indisputable Existence of Santa Claus', about the maths of Christmas, and 'Hello World', examining the impact of algorithms on human lives. She has received several awards for her work in promoting mathematics to the general public, including UCL's Public Engager of the Year in 2013, the Christopher Zeeman Medal, and the Asimov Prize."
+    },
+    {
+        "number": "20",
+        "full_name": "Asima Chatterjee",
+        "pronouns": "she/her",
+        "dates": "b.1917 d.2006",
+        "bio": "Asima Chatterjee was an Indian organic chemist well-known for her work in phytomedicine and organic chemistry, including research on medicinal plants native to South Asia, vinca alkaloids, the development of anti-malarial drugs, and the development of anti-epileptic drugs. She was the the first woman to receive a Doctorate of Science from an Indian university, and also founded the department of chemistry at the University of Calcutta in Kolkata."
+    },
+    {
+        "number": "21",
+        "full_name": "Anriette Esterhuysen",
+        "pronouns": "she/her",
+        "dates": "b.? (living)",
+        "bio": "Anriette Esterhuysen is a South African computer networking pioneer and social justice advocate. She was an active leader in mobilising information technology to facilitate anti-apartheid activism, and campaigns for affordable Internet access throughout the world. She was inducted into the Internet Hall of Fame in 2013."
+    },
+    {
+        "number": "22",
+        "full_name": "Lynn Conway",
+        "pronouns": "she/her",
+        "dates": "b.1938",
+        "bio": "Lynn Conway is an electrical engineer, trans rights advocate, and computer scientist who invented generalised dynamic instruction handling, and is also widely known for the Mead-Conway VLSI chip design revolution. She earned a BSc and MEng from Columbia University, has been granted numerous honorary doctorates for her contributions to the field of computer science, and in 2020, 52 years after they fired her for being transgender, was awarded IBM's Lifetime Achievement Award. She continues to advocate for LGBTQIA+ rights and has been recognised by organisations including Stonewall and Time Magazine for her impact on engineering and society."
+    },
+    {
+        "number": "23",
+        "full_name": "Nergis Mavalvala",
+        "pronouns": "she/her",
+        "dates": "b.1968",
+        "bio": "Nergis Mavalvala is a lesbian Pakistani American astrophysicist who is well-known for her research and experiments in multiple areas, including quantum states of light, laser cooling of macroscopic objects, and the detection of interferometric gravitational waves. She has received the Gruber Prize in Cosmology, the Breakthrough Prize in Fundamental Physics, and in 2014 was full_named LGBTQ Scientist of the Year."
+    },
+    {
+        "number": "24",
+        "full_name": "Meghna Jayanth",
+        "pronouns": "she/they",
+        "dates": "b.? (living)",
+        "bio": "Meghna 'Meg' Jayanth is a London-based video game writer, narrative designer, and digital producer. They have won a BAFTA Games Award and UK Writers' Guild Award for their work, and she loves exploring unexpected perspectives, unheard voices, and highlighting underrepresented communities & cultures in her writing."
+    },
+    {
+        "number": "25",
+        "full_name": "Ben Barres",
+        "pronouns": "he/him",
+        "dates": "b.? ",
+        "bio": "Ben Barres was a neurobiologist who led on pioneering research into glia cells, advancing understanding of the brain, and in 2013 became the first openly transgender electee to the US National Academy of Sciences. He was passionate about advocating for marginalised demographics within academia and spoke out about sexism & transphobia in the scientific community."
+    },
+    {
+        "number": "26",
+        "full_name": "JC Salevan",
+        "pronouns": "they/them",
+        "dates": "b.? (living)",
+        "bio": "JC Salevan is a mechanical engineer and senior research analyst at Yale School of Medicine who specialised in granular matter and experimental fluid dynamics before moving into institutional research and demographic analytics. In 2020 they built Yale's COVID-19 statistics dashboard & visualisations. They are also an active DEI advocate and passionate about empowering LGBTQIA+ people and gender minorities in scientific fields."
+    },
+    {
+        "number": "27",
+        "full_name": "Sally Ride",
+        "pronouns": "she/her",
+        "dates": "b.1951 d.2012",
+        "bio": "Sally Ride was an American physicist and astronaut, who was the first American woman in space, the first lesbian astronaut, and as of 2021 remains the youngest American astronaut to have travelled to space. One of four women featured in Lego's 'Women of NASA' set, she wrote a series of children's books about space, encouraging young people into science, and received many awards for her contributions to space science, both during her lifetime and posthumously: she received the NASA Space Flight Medal twice, the Lifetime Space Achievement Award, was inducted into the Astronaut Hall of Fame and the California Hall of Fame, and posthumously received the Presidential Medal of Freedom."
+    },
+    {
+        "number": "28",
+        "full_name": "Alan Turing",
+        "pronouns": "he/him",
+        "dates": "b.1912 d.1954",
+        "bio": "Alan Turing was a British computer scientist, mathematician, theoretical biologist, and cryptanalyst who is widely regarded as the father of artificial intelligence and theoretical computer science following his significant contributions to cryptanalysis, logic, and many related fields during WWII at Bletchley Park. He earned a BSc from the University of Cambridge and was a gifted long-distance runner who did not make the British team for the 1948 Olympics due to injury during tryouts. He suffered prejudice, including criminal conviction, for his relationships with other men, which were criminal offences under UK law of the time - prejudice which ultimately led to his death. He was only posthumously pardoned in 2014, which led to the later general exoneration of other men with similar historical convictions being informally referred to as the 'Alan Turing law' when it came into effect in 2017. In 2021 his portrait was included on a new design of the £50 note."
+    },
+    {
+        "number": "29",
+        "full_name": "Mae Jemison",
+        "pronouns": "she/her",
+        "dates": "b.1956",
+        "bio": "Mae Jemison is an American engineer, physician, and astronaut; she was the first Black woman to travel into space. One of four women featured in Lego's 'Women of NASA' set, she has been inducted into the National Women's Hall of Fame, the International Space Hall of Fame, and appeared in an episode of 'Star Trek: The Next Generation'. As well as being a qualified doctor who served overseas with the Peace Corps and as a vaccine researcher at the Centre for Disease Control, she is an accomplished dancer who appeared in a production of 'West Side Story', a professor of environmental studies, a public speaker and science education advocate, and author of a series of children's books."
+    },
+    {
+        "number": "30",
+        "full_name": "Sam Maggs",
+        "pronouns": "she/her",
+        "dates": "b. 1988",
+        "bio": "Sam Maggs is a bisexual Canadian-American video game writer, entertainment journalist, and author. She's worked for BioWare, Insomniac Games, and SoftLock, and written for Tor and io9 before getting her first major book deal, *The Fangirl's Guide to the Galaxy*."
+    }
+]

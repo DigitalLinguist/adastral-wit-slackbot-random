@@ -1,0 +1,25 @@
+{
+  "name": "adastral-archandroid",
+  "version": "1.0.0",
+  "description": "A simple slackbot providing random information as prompted pertaining to topics concerning gender minorities in tech. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalLinguist/adastral-wit-slackbot-random.git"
+  },
+  "author": "Adastral Women in Tech",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DigitalLinguist/adastral-wit-slackbot-random/issues"
+  },
+  "homepage": "https://github.com/DigitalLinguist/adastral-wit-slackbot-random#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "slackbots": "^1.2.0"
+  }
+}
